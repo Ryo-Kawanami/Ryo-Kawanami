@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/mdo4nt6n/posts.svg)](http://qiita.com/mdo4nt6n)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mdo4nt6n/contributions.svg)](http://qiita.com/mdo4nt6n)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/mdo4nt6n/followers.svg)](http://qiita.com/mdo4nt6n)
+                
