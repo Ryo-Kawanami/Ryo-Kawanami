@@ -14,17 +14,30 @@
 
 
 
- 
-<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
-<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
-<img src="https://img.shields.io/badge/-Gitlab-E24329.svg?logo=gitlab&style=plastic">
+<!--Git Series-->
+<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic"> <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/-Gitlab-E24329.svg?logo=gitlab&style=plastic">
+<!--Programing Language-->
 <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
+<!--Data Format-->
 <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">
-<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
-<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
-<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic">
-<img src="https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=plastic">
-<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic">
-<img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
+<!--Editor-->
 <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
+<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
+<img src="https://img.shields.io/badge/-Vscode-F37626.svg?logo=vscode&style=plastic">
+<!--OS-->
+<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
+<img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
+
+<!--Cloud-->
+<img src="https://img.shields.io/badge/-Azure-E95420.svg?logo=azure&style=plastic">
+
+<!--Programing Tools-->
+<PlaceHolder>
+
+<!--Other Tools-->
+<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic">
+<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic">
+<img src="https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=plastic">
+
+
 <img src="https://img.shields.io/badge/-Rss-FFA500.svg?logo=rss&style=plastic">
