@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### github Status
+### Github Status
 <img src="https://grass-graph.moshimo.works/images/Ryo-Kawanami.png">
 ![Ryo-Kawanami's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami)
 
