@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/mdo4nt6n/followers.svg)](http://qiita.com/mdo4nt6n)
 
 ### Skills
-<img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/TesorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/PyTorch-aa381e.svg?logo=pytorch&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat"> <img src="https://img.shields.io/badge/PowerPoint-B7472A.svg?logo=Microsoft%20PowerPoint&style=flat"> <img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat"> <img src="https://img.shields.io/badge/-Docker-AAAAAA.svg?logo=docker&style=flat"><img src="https://img.shields.io/badge/Android-AAAAAA.svg?logo=android&style=flat">
+<img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/TesorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/PyTorch-aa381e.svg?logo=pytorch&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat"> <img src="https://img.shields.io/badge/PowerPoint-B7472A.svg?logo=Microsoft%20PowerPoint&style=flat"> <img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat"> <img src="https://img.shields.io/badge/-Docker-AAAAAA.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/Android-AAAAAA.svg?logo=android&style=flat">
 
 
  
