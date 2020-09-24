@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/mdo4nt6n/contributions.svg)](http://qiita.com/mdo4nt6n)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/mdo4nt6n/followers.svg)](http://qiita.com/mdo4nt6n)
                 
-
+![Ryo-Kawanami's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami)
 
 <img src="https://grass-graph.moshimo.works/images/Ryo-Kawanami.png">
