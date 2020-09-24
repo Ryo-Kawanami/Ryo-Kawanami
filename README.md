@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 ### Github Status
 <img src="https://grass-graph.moshimo.works/images/Ryo-Kawanami.png">
 
-![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami)
-
-![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami&show_icons=true&theme=radical)
-![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-Kawanami&show_icons=true&theme=radical&layout=compact)  
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami&show_icons=true&theme=shades-of-purple)
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-Kawanami&show_icons=true&theme=shades-of-purple&layout=compact&show_icons=true)  
 
 
 ### Qiita Status
