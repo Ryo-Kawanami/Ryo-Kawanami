@@ -1,4 +1,4 @@
-## 🚗 CarNavi(Ryo-Kawanami) 🚗
+## 🚗 Ryo-Kawanami(CarNavi) 🚗
 
 <!--
 **Ryo-Kawanami/Ryo-Kawanami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### Github Status
 <img src="https://grass-graph.moshimo.works/images/Ryo-Kawanami.png">
-[![Ryo-Kawanami's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami)
+
+![Ryo-Kawanami's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami)
 
 ### Qiita Status
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/mdo4nt6n/posts.svg)](http://qiita.com/mdo4nt6n)
