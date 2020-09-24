@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami)
 
-![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=CarNavi&show_icons=true&theme=radical)
-![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarNavi&show_icons=true&theme=radical&layout=compact)  
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami&show_icons=true&theme=radical)
+![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-Kawanami&show_icons=true&theme=radical&layout=compact)  
 
 
 ### Qiita Status
