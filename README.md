@@ -21,12 +21,9 @@
 <!--Data Format-->
 <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">
 <!--Editor-->
-<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic">
-<img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic">
-<img src="https://img.shields.io/badge/-Vscode-F37626.svg?logo=vscode&style=plastic">
+<img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic"> <img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=plastic"> <img src="https://img.shields.io/badge/-Vscode-F37626.svg?logo=vscode&style=plastic">
 <!--OS-->
-<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
-<img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
+<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic"> <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
 
 <!--Cloud-->
 <img src="https://img.shields.io/badge/-Azure-E95420.svg?logo=azure&style=plastic">
@@ -35,9 +32,7 @@
 <PlaceHolder>
 
 <!--Other Tools-->
-<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic">
-<img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic">
-<img src="https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=plastic">
+<img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic"> <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic"> <img src="https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=plastic">
 
 
 <img src="https://img.shields.io/badge/-Rss-FFA500.svg?logo=rss&style=plastic">
