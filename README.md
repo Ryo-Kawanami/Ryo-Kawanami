@@ -1,4 +1,4 @@
-## 🚗 Ryo-Kawanami(CarNavi) 🚗
+## Ryo-Kawanami(CarNavi) 🚗
 
 <!--
 **Ryo-Kawanami/Ryo-Kawanami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
