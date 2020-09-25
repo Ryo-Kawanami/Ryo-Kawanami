@@ -8,6 +8,7 @@
 ### Github Status
 ![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami&show_icons=true&theme=shades-of-purple)
 ![CarNavi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-Kawanami&show_icons=true&theme=shades-of-purple&layout=compact&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryo-Kawanami)](https://github.com/Ryo-Kawanami/github-profile-trophy)
 
 ### Skills
 <!--Git Series-->
