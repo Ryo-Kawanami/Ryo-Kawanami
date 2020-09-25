@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic"> <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic"> <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic"> <img src="https://img.shields.io/badge/-shell-AAAAAA.svg?logo=shell&style=flat"> 
 
 <!--Tools-->
-<img src="https://img.shields.io/badge/-Visual studio code-007ACC.svg?logo=visual&nbspstudio&nbspcode&style=plastic"> <img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic"> <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic"> <img src="https://img.shields.io/badge/-Rss-FFA500.svg?logo=rss&style=plastic"> <img src="https://img.shields.io/badge/PowerPoint-B7472A.svg?logo=Microsoft%20PowerPoint&style=flat"> <img src="https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=plastic"> 
+<img src="https://img.shields.io/badge/-Visual studio code-007ACC.svg?logo=visual%20studio%20code&style=plastic"> <img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic"> <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=plastic"> <img src="https://img.shields.io/badge/-Rss-FFA500.svg?logo=rss&style=plastic"> <img src="https://img.shields.io/badge/PowerPoint-B7472A.svg?logo=Microsoft%20PowerPoint&style=flat"> <img src="https://img.shields.io/badge/-Skype-00AFF0.svg?logo=skype&style=plastic"> 
 
 <!--Cloud-->
 <img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat">
