@@ -4,9 +4,9 @@
 ## Ryo-Kawanami(CarNavi) 🚗
 
 ### Qiita Status
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mdo4nt6n/posts.svg)](http://qiita.com/mdo4nt6n)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mdo4nt6n/contributions.svg)](http://qiita.com/mdo4nt6n)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mdo4nt6n/followers.svg)](http://qiita.com/mdo4nt6n)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/mdo4nt6n/posts.svg)](http://qiita.com/cv_carnavi)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mdo4nt6n/contributions.svg)](http://qiita.com/cv_carnavi)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/mdo4nt6n/followers.svg)](http://qiita.com/cv_carnavi)
 
 ### Github Status
 ![CarNavi's github stats](https://github-readme-stats.vercel.app/api?username=Ryo-Kawanami&show_icons=true&theme=shades-of-purple)
