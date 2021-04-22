@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat">
 
 
-<img src="https://github.com/Ryo-Kawanami/Ryo-Kawanami/issues/1#issue-864844930">
+Portfolio
+[theworldline](https://github.com/Ryo-Kawanami/Ryo-Kawanami/issues/1#issue-864844930)
 
 
 
