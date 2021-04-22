@@ -3,6 +3,9 @@
 
 ## Ryo-Kawanami(CarNavi) 🚗
 
+### Portfolio
+![the world line](https://user-images.githubusercontent.com/39410068/115707907-49a12f00-a3aa-11eb-8cb8-85fee380f450.gif)
+
 ### Qiita Status
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/cv_carnavi/posts.svg)](http://qiita.com/cv_carnavi)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/cv_carnavi/contributions.svg)](http://qiita.com/cv_carnavi)
@@ -30,10 +33,6 @@
 <img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat">
 
 
-
-
-### Portfolio
-![the world line](https://user-images.githubusercontent.com/39410068/115707907-49a12f00-a3aa-11eb-8cb8-85fee380f450.gif)
 
 
 
