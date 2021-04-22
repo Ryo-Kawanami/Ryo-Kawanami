@@ -31,5 +31,7 @@
 
 
 
+https://github.com/Ryo-Kawanami/Ryo-Kawanami/issues/1#issue-864844930
+
 
 ![Footer](https://github.com/Ryo-Kawanami/Ryo-Kawanami/blob/master/footer.png)
